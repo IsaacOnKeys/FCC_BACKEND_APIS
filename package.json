@@ -3,6 +3,7 @@
   "author": "Isaac Haire",
 	"name": "fcc-learn-npm-package-json",
   "license": "MIT",
+  "version": "1.0",
   "keywords": [ "NPM", "practice", "backend", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
