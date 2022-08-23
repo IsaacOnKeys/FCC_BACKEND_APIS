@@ -2,7 +2,7 @@
   "description": "Practicing NPM set-up",
   "author": "Isaac Haire",
 	"name": "fcc-learn-npm-package-json",
-  "keywords": [ "NPM", "practice", "backend" ],
+  "keywords": [ "NPM", "practice", "backend", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
