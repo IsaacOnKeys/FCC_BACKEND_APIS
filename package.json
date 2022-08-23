@@ -1,16 +1,16 @@
 {
-  
-  "name": "fcc-learn-npm-package-json",
-		"author": "Isaac Haire",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/IsaacOnKeys/FCC_BACKEND_APIS.git"
-  }
+  "description": "Practicing NPM set-up",
+  "author": "Isaac Haire",
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
 }
